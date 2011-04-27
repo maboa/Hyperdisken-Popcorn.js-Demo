@@ -1,0 +1,514 @@
+<popcorn>
+  <manifest>
+
+    <attributions>
+      
+      <attribution id="original" nameofwork="Title card re-designs" copyrightholder="by Justin McIntosh" copyrightholderurl="http://justincmcintosh.com/" nameofworkurl=""/>
+      <attribution id="sameasvideo" nameofwork="Same as video" copyrightholder="" copyrightholderurl="" nameofworkurl=""/>
+      <attribution id="aquamania" nameofwork="Aquamania (1961)" copyrightholder="Goofy cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=M_nRWHE9SLk"/>
+	  <attribution id="theriveter" nameofwork="The Riveter (1940)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=Og-goe8RJoA"/>
+      <attribution id="windowcleaner" nameofwork="Window Cleaner (1940)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=LEgSZjv1xTk"/>
+      <attribution id="windowcleanerfix" nameofwork="MODIFIED: Window Cleaner (1940)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=LEgSZjv1xTk#t=4m00s"/>
+      <attribution id="luckynumber" nameofwork="COMPOSITE: Lucky Number (1951) AND Window Cleaner (1940)" copyrightholder="Donald Duck cartoons" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=A2sp54OxWik#t=1m25s"/>
+      <attribution id="symphonyhour" nameofwork="Symphony Hour (1942)" copyrightholder="Mickey Mouse cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=reM5MnRR8Qo"/>
+      
+      <attribution id="symphonyhourfix" nameofwork="MODIFIED: Symphony Hour (1942)" copyrightholder="Mickey Mouse cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=reM5MnRR8Qo#t=0m35s"/>
+      <attribution id="putput" nameofwork="Put-Put Troubles (1940)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=IA_WnabPKOk"/>
+	  <attribution id="dilemma" nameofwork="Donald's Dilemma (1947)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=S-nnoNgwY3k"/>
+      <attribution id="autographhound" nameofwork="Autograph Hound (1939)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=hbhRwmdXyNk"/>
+      <attribution id="autographhoundfix" nameofwork="MODIFIED: Autograph Hound (1939)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=cwlvTXTAC_8#t=2m00s"/>
+      <attribution id="duckforhire" nameofwork="Duck for Hire (1957)" copyrightholder="Wonderful World of Color TV special" copyrightholderurl="" nameofworkurl="http://www.imdb.com/title/tt0908278/"/>
+      <attribution id="newspiritfix" nameofwork="MODIFIED: The New Spirit (1943)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=E5CKHLlwA7U#t=4m08s"/>
+      <attribution id="newspirit" nameofwork="The New Spirit (1943)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=E5CKHLlwA7U"/>
+      
+      <attribution id="dreamvoice" nameofwork="Donald's Dream Voice (1948)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=qeCywfoKP_0"/>
+	  <attribution id="curedduck" nameofwork="Cured Duck (1945)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=1K4iB7E8FOQ"/>
+      <attribution id="thegorilla" nameofwork="Donald and the Gorilla (1944)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=r5_dYtsia_U"/>
+      <attribution id="volentreeworker" nameofwork="The Volentree Worker (1940)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=gM_ENa56X_M"/>
+      <attribution id="movingday" nameofwork="Moving Day (1936)" copyrightholder="Mickey Mouse cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=GK7LKAbKP0k"/>
+      <attribution id="movingdayfx" nameofwork="MODIFIED: Moving Day (1936)" copyrightholder="Mickey Mouse cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=R8FzGOOQNDY#t=0m22s"/>
+      <attribution id="movingdayfx2" nameofwork="MODIFIED: Moving Day (1936)" copyrightholder="Mickey Mouse cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=R8FzGOOQNDY#t=1m06s"/>
+      <attribution id="donaldscrime" nameofwork="Donald's Crime (1945)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=54imThEcJMw"/>
+      
+      <attribution id="cousingus" nameofwork="Donald's Cousin Gus (1939)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=jJYtrCakZ08"/>
+      <attribution id="donaldsnephews" nameofwork="Donald's Nephews (1938)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=5mXBEG0sk1E"/>
+      <attribution id="homedefense" nameofwork="Home Defense (1943)" copyrightholder="Donald Duck Cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=pjZcKsRdEOA"/>
+      <attribution id="happybirthday" nameofwork="Donald's Happy Birthday (1949)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=xIdpIPgLcTU"/>
+      <attribution id="caninecasanova" nameofwork="Canine Casanova (1945)" copyrightholder="Pluto cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=27LeCEPvjQY"/>
+	  <attribution id="fathersday" nameofwork="Father's Week-End (1953)" copyrightholder="Goofy cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=Gft-WQE1FVo"/>
+      <attribution id="mousetrip" nameofwork="Mr. Mouse Takes A Trip (1940)" copyrightholder="Mickey Mouse cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=sIoeF6iVWjA"/>
+      <attribution id="penguin" nameofwork="Donald's Penguin (1939)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=poPFWcB-jHo"/>
+      
+      <attribution id="penguinfx" nameofwork="MODIFIED: Donald's Penguin (1939)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=poPFWcB-jHo#t=5m57s"/>
+      <attribution id="composite" nameofwork="COMPOSITE: Donald's Penguin (1939) AND Cured Duck (1945)" copyrightholder="Donald Duck cartoons" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=poPFWcB-jHo#t=6m14s"/>
+      <attribution id="composite2" nameofwork="COMPOSITE: Chef Donald (1941) AND Donald's Penguin (1939)" copyrightholder="Donald Duck cartoons" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=fYU55fYLy8I#t=6m18s"/>
+      <attribution id="daddyduck" nameofwork="Daddy Duck (1948)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=1rDL4or-PHg"/>
+	  <attribution id="lionaround" nameofwork="Lion Around (1950)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=z5GQ6ov71E4"/>
+      <attribution id="fuehrersface" nameofwork="Der Fuehrers Face (1943)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=iumEGAUceDg"/>
+      <attribution id="selfcontrol" nameofwork="Self Control (1938)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=fiA-ZkWWvNU"/>
+      
+      <attribution id="sailor" nameofwork="How to Be A Sailor (1944)" copyrightholder="Goofy cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=Jqe3cQ83JYQ"/>
+	  <attribution id="duckpimples" nameofwork="Duck Pimples (1945)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=Gw4ogWuFv4k"/>
+      <attribution id="eyeshaveit" nameofwork="The Eyes Have It (1945)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=DXSKbpeLYKQ"/>
+      <attribution id="threecaballeros" nameofwork="The Three Caballeros (1945)" copyrightholder="Donald Duck feature film" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=ShZOE4sBq64"/>
+      <attribution id="themirror" nameofwork="Thru the Mirror (1936)" copyrightholder="Mickey Mouse cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=Jj-XLPstSPI"/>
+      <attribution id="dayoff" nameofwork="Donald's Day Off (1944)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=NdEwNOz-P50"/>
+      
+      <attribution id="dayofffix" nameofwork="MODIFIED: Donald's Day Off (1944)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=NdEwNOz-P50#t=5m45s"/>
+      <attribution id="sparetherod" nameofwork="Spare the Rod (1954)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=7e3YT60eKMM"/>
+      <attribution id="mathmagic" nameofwork="Donald in Mathmagic Land (1959)" copyrightholder="Donald Duck featurette" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=gYia02Dk8Nc"/>
+      <attribution id="christmascarol" nameofwork="Mickey's Christmas Carol (1983)" copyrightholder="Mickey Mouse featurette" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=yLQWq26G2q8"/>
+      <attribution id="doubletrouble" nameofwork="Donald's Double Trouble (1946)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=1-G4oMNF1oM"/>
+      <attribution id="trailofdonald" nameofwork="The Trial of Donald Duck (1948)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=JBEZeteD6pk"/>
+	  <attribution id="clownofthejungle" nameofwork="Clown of the Jungle (1947)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=hotQunhtVfY"/>
+      
+      <attribution id="earlytobed" nameofwork="Early to Bed (1941)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=zrzvwzHhclo"/>
+      <attribution id="chefdonald" nameofwork="Chef Donald (1941)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=fYU55fYLy8I"/>
+      <attribution id="straightshooters" nameofwork="Straight Shooters (1947)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=NMAf29y-GPI"/>
+      <attribution id="goldeneggs" nameofwork="MODIFIED: Golden Eggs (1941)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=iM6EIYdJIeY#t=0m31s"/>
+      <attribution id="nohunting" nameofwork="MODIFIED: No Hunting (1955)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=MFklA911R74#t=1m33s"/>
+      <attribution id="donaldscamera" nameofwork="Donald's Camera (1941)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=L_SmkSn7yQ0"/>
+      
+      <attribution id="thesamba" nameofwork="Blame It On The Samba (1948)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=7hkJr3bOFOE"/>
+      <attribution id="goodtime" nameofwork="A Good Time for A Dime (1941)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=Qhh5kjGeHsU"/>
+      <attribution id="hooklion" nameofwork="Hook, Lion and Sinker (1950)" copyrightholder="Donald Duck cartoon" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=VvpULqEMZUQ"/>
+      
+      <attribution id="todayshow" nameofwork="Apr 26&#44; 2007 - The Today Show" copyrightholder="National Broadcasting Company" copyrightholderurl="" nameofworkurl="http://today.msnbc.msn.com/"/>
+      <attribution id="alyonashow" nameofwork="July 13&#44; 2010 - The Alyona Show" copyrightholder="RT America" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=9uJiegQQKZ4"/>
+     
+      <attribution id="beckfoxintro" nameofwork="Glenn Beck intro" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://www.foxnews.com/glennbeck/"/>
+      <attribution id="beckfox020409" nameofwork="Feb 4&#44; 2009 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=aKKUfmFL3Cs"/>
+      <attribution id="beckfox071509" nameofwork="July 15&#44; 2009 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=L2a5J8lU1ds"/>
+      <attribution id="beckfox082610" nameofwork="Aug 26&#44; 2010 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/201008260035"/>
+      <attribution id="beckfox091310" nameofwork="Sept 13&#44; 2010 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/201009130046"/>
+      <attribution id="beckfox082509" nameofwork="Aug 25&#44; 2009 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/200908250052"/>
+      <attribution id="beckfox022009" nameofwork="Feb 20&#44; 2009 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=awYiQZ4YvLE"/>
+     
+      <attribution id="beckfox030210" nameofwork="Mar 2&#44; 2010 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/201003020049"/>
+      <attribution id="beckradio111209" nameofwork="Nov 12&#44; 2009 - Glenn Beck Program" copyrightholder="Premiere Radio Networks" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/200911120025"/>
+      <attribution id="beckradio082509" nameofwork="Aug 25, 2010 - Glenn Beck Program" copyrightholder="Premiere Radio Networks" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/201008250014"/>
+      <attribution id="beckfox072210" nameofwork="July 22, 2010 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/201007220063"/>
+      <attribution id="beckfox110309" nameofwork="Nov 3&#44; 2009 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/200911030042"/>
+      <attribution id="beckradio052810" nameofwork="May 28&#44; 2010 - Glenn Beck Program" copyrightholder="Premiere Radio Networks" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/201005280022"/>
+     
+      <attribution id="beckfox080510" nameofwork="Aug 5&#44; 2010 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://www.huffingtonpost.com/2010/08/07/glenn-beck-compares-obama_n_674591.html"/>
+      <attribution id="beckfox072310" nameofwork="JUL 23&#44; 2010 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/201007230038"/>
+      <attribution id="beckradio091310" nameofwork="Sep 13&#44; 2010 - Glenn Beck" copyrightholder="Premiere Radio Networks" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/201009130020"/>
+      <attribution id="beckfox101509" nameofwork="Oct 15&#44; 2009 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/200910150035"/>
+      <attribution id="beckcnn090407" nameofwork="Sept 4&#44; 2007 - Glenn Beck" copyrightholder="CNN Headline News" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=XZoHlWIoCIo"/>
+     <attribution id="beckvarious" nameofwork="Various clips - Glenn Beck" copyrightholder="Fox News Channel, CNN Headline News, Premiere Radio Networks" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=XZoHlWIoCIo"/>
+     <attribution id="beckfox021710" nameofwork="Feb 17&#44; 2010 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=VaWlUIULE3g"/>
+    
+     <attribution id="beckfox042610" nameofwork="Apr 26&#44; 2010 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=r79-Za5tj9E"/>
+     <attribution id="beckradio011910" nameofwork="Jan 19&#44; 2010 - Glenn Beck" copyrightholder="Premiere Radio Networks" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/2010011900270"/>
+     <attribution id="beckfox092309" nameofwork="Sept 23&#44; 2009 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/200909230039"/>
+     <attribution id="beckfox123109" nameofwork="Dec 31&#44; 2009 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=Sbl20d8D4qc"/>
+     <attribution id="beckradio051310" nameofwork="May 13&#44; 2010 - Glenn Beck" copyrightholder="Premiere Radio Networks" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/201005130027"/>
+     <attribution id="beckradio022510" nameofwork="Feb 25&#44; 2010 - Glenn Beck" copyrightholder="Premiere Radio Networks" copyrightholderurl="" nameofworkurl="http://www.glennbeck.com/content/articles/article/198/36920/"/>
+     <attribution id="beckinsider" nameofwork="Insider Extreme promo" copyrightholder="Mercury Radio Arts" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=28NmAzcq3b8"/>
+    
+     <attribution id="beckradio091709" nameofwork="Sept 17&#44; 2009 - Glenn Beck" copyrightholder="Premiere Radio Networks" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/200909170007"/>
+     <attribution id="beckcnn072808" nameofwork="July 28&#44; 2008 - Glenn Beck" copyrightholder="CNN Headline News" copyrightholderurl="" nameofworkurl="http://transcripts.cnn.com/TRANSCRIPTS/0807/28/gb.01.html"/>
+     <attribution id="beckradio051710" nameofwork="May 17&#44; 2010 - Glenn Beck" copyrightholder="Premiere Radio Networks" copyrightholderurl="" nameofworkurl="http://mediamatters.org/mmtv/201005170029"/>
+     <attribution id="beckfox072809" nameofwork="July 28&#44; 2009 - Glenn Beck" copyrightholder="Fox News Channel" copyrightholderurl="" nameofworkurl="http://www.youtube.com/watch?v=vE-_sWRdEyk"/>
+     <attribution id="beckradio112009" nameofwork="Nov 20&#44; 2009 - Glenn Beck" copyrightholder="Premiere Radio Networks" copyrightholderurl="" nameofworkurl="http://www.glennbeck.com/content/articles/article/198/33342"/>
+         
+         </attributions>
+         
+    <articles>
+    
+      <resource id="donald" src="http://en.wikipedia.org/wiki/Donald_Duck" description="Donald Duck"/>
+      <resource id="heighho" src="http://en.wikipedia.org/wiki/Heigh-Ho" description="Heigh Ho"/>
+      <resource id="pete" src="http://en.wikipedia.org/wiki/Pete_%28Disney_character%29" description="Pete"/>
+      <resource id="plutocracy" src="http://en.wikipedia.org/wiki/Plutocracy" description="plutocracy"/>
+      <resource id="glennbeck" src="http://en.wikipedia.org/wiki/Glenn_Beck" description="Glenn Beck"/>
+      <resource id="teaparty" src="http://en.wikipedia.org/wiki/Tea_Party_movement" description="Tea Party"/>
+      <resource id="mccarthy" src="http://en.wikipedia.org/wiki/Joseph_McCarthy" description="Joseph McCarthy"/>
+      <resource id="mccarthyism" src="http://en.wikipedia.org/wiki/McCarthyism" description="McCarthyism"/>
+      <resource id="derfuehrer" src="http://en.wikipedia.org/wiki/Der_Fuehrer%27s_Face" description="Der Fuehrer's Face"/>
+      
+      <resource id="panchito" src="http://en.wikipedia.org/wiki/Panchito_Pistoles" description="Panchito Pistoles"/>
+      <resource id="subprime" src="http://en.wikipedia.org/wiki/Subprime_mortgage_crisis" description="Subprime mortgage crisis"/>
+      <resource id="foreclosurecrisis" src="http://en.wikipedia.org/wiki/2010_United_States_foreclosure_crisis" description="2010 United States foreclosure crisis"/>
+      <resource id="ethnic" src="http://en.wikipedia.org/wiki/Ethnic_stereotype" description="Ethnic stereotype"/>
+      <resource id="scapegoat" src="hhttp://en.wikipedia.org/wiki/Scapegoating" description="Scapegoating"/>
+      <resource id="nationalism" src="http://en.wikipedia.org/wiki/Nationalism" description="Nationalism"/>
+      <resource id="fearmongering" src="http://en.wikipedia.org/wiki/Fear_mongering" description="Fear mongering"/>
+      <resource id="unemploymentrate" src="http://en.wikipedia.org/wiki/Effective_unemployment_rate" description="Effective unemployment rate"/>
+      <resource id="wwii" src="http://en.wikipedia.org/wiki/Walt_Disney%27s_World_War_II_propaganda_production
+" description="World War II Disney propaganda"/>
+      
+      <resource id="xenophobia" src="http://en.wikipedia.org/wiki/Xenophobia" description="Xenophobia"/>
+      <resource id="tarp" src="http://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program" description="TARP"/>
+      <resource id="newspiritwiki" src="http://en.wikipedia.org/wiki/The_New_Spirit" description="The New Spirit"/>
+      <resource id="antimexican" src="http://en.wikipedia.org/wiki/Anti-Mexican_sentiment" description="Anti-Mexican sentiment"/>
+      <resource id="hispanophobia" src="http://en.wikipedia.org/wiki/Hispanophobia" description="Hispanophobia"/>
+      <resource id="ajax" src="http://en.wikipedia.org/wiki/Ajax_%28Disney%29" description="Ajax"/>
+      <resource id="mirror" src="http://en.wikipedia.org/wiki/Thru_the_Mirror" description="mirror"/>
+      <resource id="snakeoil" src="http://en.wikipedia.org/wiki/Snake_oil" description="Snake oil"/>
+      <resource id="extremism" src="http://en.wikipedia.org/wiki/Extremism" description="Extremism"/>
+      
+      <resource id="victimblaming" src="http://en.wikipedia.org/wiki/Victim_blaming" description="Victim blaming"/>
+      <resource id="paranoia" src="http://en.wikipedia.org/wiki/Paranoia" description="Paranoia"/>
+      <resource id="apocalypticism" src="http://en.wikipedia.org/wiki/Apocalypticism" description="Apocalypticism"/>
+      <resource id="apocalyptic" src="http://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction" description="Apocalyptic fiction"/>
+      <resource id="compositing" src="http://en.wikipedia.org/wiki/Compositing" description="Compositing"/>
+      <resource id="repossession" src="http://en.wikipedia.org/wiki/Repossession" description="Repossession"/>
+      <resource id="goofy" src="http://en.wikipedia.org/wiki/Goofy" description="Goofy"/>
+      <resource id="mickey" src="http://en.wikipedia.org/wiki/Mickey_Mouse" description="Mickey"/>
+      <resource id="pluto" src="http://en.wikipedia.org/wiki/Pluto" description="Pluto"/>
+      <resource id="bullying" src="http://en.wikipedia.org/wiki/Bullying" description="Bullying"/>
+      
+      <resource id="bluecollar" src="http://en.wikipedia.org/wiki/Blue-collar_worker" description="Blue-collar worker"/>
+      <resource id="reactionary" src="http://en.wikipedia.org/wiki/Reactionary" description="Reactionary"/>
+      <resource id="talkradio" src="http://en.wikipedia.org/wiki/Conservative_talk" description="Conservative talk"/>
+      <resource id="planet" src="http://en.wikipedia.org/wiki/Planet_of_the_Apes_%28novel%29" description="Planet of the Apes"/>
+      <resource id="ghostoffuture" src="http://en.wikipedia.org/wiki/Ghost_of_Christmas_Yet_to_Come" description="Ghost of Christmas Yet to Come"/>
+      <resource id="bootstrapping" src="http://en.wikipedia.org/wiki/Bootstrapping" description="Bootstrapping"/>
+      <resource id="transformativeness" src="http://en.wikipedia.org/wiki/Transformativeness" description="Transformativeness"/>
+      <resource id="discouraged" src="http://en.wikipedia.org/wiki/Discouraged_worker" description="Discouraged worker"/>
+      <resource id="repossession" src="http://en.wikipedia.org/wiki/Repossession" description="Repossession"/>
+    </articles>
+    
+  </manifest>
+
+  <timeline>
+
+    <footnotes>
+     
+     <footnote in="00:00:01" out="00:09:00" target="footnote">This re-imagined Donald Duck cartoon remix was constructed using &lt;a href="http://www.rebelliouspixels.com/2010/right-wing-radio-duck-donald-discovers-glenn-beck#cartoonlist"&gt;50 classic Walt Disney cartoons&lt;/a&gt; from the 1930s through 1960s combined with audio clips from Glenn Beck broadcasts.</footnote>
+     
+     <footnote in="00:10:01" out="00:16:00" target="footnote">The title card re-design and photoshop work was volunteered by graphic designer &lt;a href="http://justincmcintosh.com"&gt;Justin McIntosh&lt;/a&gt;. He worked to match the style to the original Disney cartoon credits and titles from the 1940s cartoons.</footnote>
+     
+     <footnote in="00:17:01" out="00:24:00" target="footnote">In the 1930's Walt Disney introduced Donald Duck to represent the average working "everyman" who could express frustrations in ways Mickey Mouse no longer could because of his role model icon status.</footnote>
+     
+     <footnote in="00:25:01" out="00:32:00" target="footnote">In the original cartoon Donald is fighting with a bee. The bee has been removed frame-by-frame to make it seem more like Donald is reacting to what he sees inside the window. - &lt;a href="http://www.youtube.com/watch?v=LEgSZjv1xTk#t=4m00s"&gt;[See original scene]&lt;/a&gt;</footnote>
+     
+     <footnote in="00:33:01" out="00:39:00" target="footnote">The top 1% of Americans now &lt;a href="http://bit.ly/jGFa6"&gt;own more wealth&lt;/a&gt; than the bottom 90% combined. In 2009 the number of millionaires rose 16% while 4 million additional Americans fell into poverty.</footnote>
+     
+     <footnote in="00:40:01" out="00:47:00" target="footnote">In 2009 the wealth gap between rich and poor grew to levels not seen in America since 1929. The number of Americans living in extreme poverty jumped by 11% with &lt;a href="http://www.guardian.co.uk/world/2010/sep/16/four-million-americans-poverty-one-year"&gt;over 44 million&lt;/a&gt; living below the poverty line.</footnote>
+      
+      <footnote in="00:48:01" out="00:58:00" target="footnote">Government tax rates for the rich over the past 30 years, under both political parties, have contributed to the widening wealth gap. The top 1% of Americans now have &lt;a href="http://www.nytimes.com/2010/11/14/opinion/14rich.html?_r=1"&gt;tax rates a third lower&lt;/a&gt; than they had back in 1970.</footnote>
+      
+      <footnote in="01:13:01" out="01:19:00" target="footnote">The initial bank bailout passed under George W. Bush with support from then senator Barack Obama and the Democrats. In early 2009 president-elect Obama &lt;a href="http://www.reuters.com/article/idUSTRE50E4ZY20090115"&gt; lobbied congress intensely&lt;/a&gt; to extend it and release $350 billion more. </footnote>
+      
+      <footnote in="01:20:01" out="01:28:00" target="footnote">The headline refers to the "real unemployment" rate and not the official government numbers of 9.5%. In September 2010 real unemployment was estimated to be &lt;a href="http://www.dailyfinance.com/story/careers/what-is-the-real-unemployment-rate/19556146/"&gt;between 16.5% and 22%&lt;/a&gt;.</footnote>
+      
+      <footnote in="01:31:01" out="01:37:00" target="footnote">The most difficult cartoon to acquire was the TV special "Duck for Hire" co-starring Ranger Woodlore which only aired on Disney's &lt;a href=http://en.wikipedia.org/wiki/Wonderful_World_of_Color"&gt;Wonderful World of Color&lt;/a&gt;. This clip is from a TV broadcast recording onto VHS.</footnote>
+      
+      <footnote in="01:39:01" out="01:47:00" target="footnote">In the original cartoon the writing says "rent". Here it was necessary to modify it to read "mortgage" instead to fit the new narrative. - &lt;a href="http://www.youtube.com/watch?v=R8FzGOOQNDY#t=0m22s"&gt;[See original scene]&lt;/a&gt;</footnote>
+      
+      <footnote in="01:50:01" out="01:59:00" target="footnote">One of the reasons for using classic Disney cartoons for this remix is the fact that the Walt Disney conglomerate has &lt;a href="http://articles.latimes.com/2008/aug/22/business/fi-mickey22/2"&gt;pushed for long extensions to copyright limitations&lt;/a&gt; to protect Mickey Mouse from entering the public domain.</footnote>
+      
+      <footnote in="02:03:01" out="02:12:00" target="footnote">In the original cartoon Pete is serving a notice of "dispossession" to both Donald and Mickey Mouse. It was necessary to modify the notice frame-by-frame to read "foreclosure" for the new narrative. &lt;a href="http://www.youtube.com/watch?v=R8FzGOOQNDY#t=1m06s"&gt;[See original scene]&lt;/a&gt;</footnote>
+      
+      <footnote in="02:13:01" out="02:22:00" target="footnote">In 2009 home foreclosures hit a &lt;a href="http://money.cnn.com/2010/01/14/real_estate/record_foreclosure_year/"&gt;record high of 3 million&lt;/a&gt; in the United States. 2010 saw &lt;a href="http://news.yahoo.com/s/afp/20110113/bs_afp/ushousingbanking"&gt;2.9 million foreclosures&lt;/a&gt; while the Wall St. firms responsible for the crisis walked away with bail outs.</footnote>
+       
+       <footnote in="02:26:01" out="02:36:00" target="footnote">The Glenn Beck Program is the &lt;a href="http://talkers.com/online/?p=71/"&gt;3rd highest rated radio talk program&lt;/a&gt; in the United States with an estimated 10 million weekly listeners. Conservative hosts Rush Limbaugh and Sean Hannity are ranked 1st and 2nd.</footnote>
+       
+       <footnote in="02:44:01" out="02:47:00" target="footnote">In a 2009 &lt;a href="http://www.youtube.com/watch?v=L2a5J8lU1ds"&gt;interview with CEO Patrick Byrne&lt;/a&gt; Glenn Beck uncharacteristically agrees that the government is "owned" by Wall St. which is odd given his usual rants about government constraints on big business.</footnote>
+       
+       <footnote in="02:48:01" out="02:55:00" target="footnote">The 1943 propaganda cartoon "&lt;a href="http://www.youtube.com/watch?v=E5CKHLlwA7U"&gt;The New Spirit&lt;/a&gt;" provided the core framework for  this project. It was a partnership between Disney and the US Department of the Treasury to persuade Americans to pay their taxes during World War II.</footnote>
+      
+      <footnote in="03:10:01" out="03:28:00" target="footnote">Walt Disney himself joined Joseph McCarthy's Hollywood witch hunts and testified as a friendly &lt;a href="http://everything2.com/title/The+testimony+of+Walter+E.+Disney+before+the+House+Committee+on+Un-American+Activities"&gt;witness before the House Un-American Activities Committee&lt;/a&gt; in 1947 claiming communists had tried to take over his studio.</footnote>
+      
+      <footnote in="03:42:01" out="03:49:00" target="footnote">The Nazi marching band is appropriated from a 1943 American war propaganda cartoon called "Der Fuehrer's Face" in which Donald Duck has a nightmare about being a Nazi soldier in Germany during World War II.</footnote>
+      
+      <footnote in="03:53:01" out="04:04:00" target="footnote">One inspiration for this project was an &lt;a href="http://www.youtube.com/watch?v=ZFeENNoqOtI#t=11m30s"&gt;interview with linguist Noam Chomsky&lt;/a&gt; where he says it's a mistake to ridicule people drawn to the Tea Party. This is why Donald Duck is presented as a sympathetic character in the remix.</footnote>
+		
+<footnote in="04:37:00" out="04:52:00" target="footnote">Beck's rhetoric relies on race-coded language and &lt;a href="http://mediamatters.org/research/201008260006"&gt;racist scapegoating&lt;/a&gt; techniques designed to stoke racial fears and resentments in white Americans while appealing to a white &lt;a href="http://www.timwise.org/2009/10/the-avatar-of-amnesia-glenn-beck-historical-memory-and-the-evil-of-right-wing-populism/"&gt;nostalgia for some mythical bygone era&lt;/a&gt;.</footnote>
+      
+      <footnote in="05:03:00" out="05:10:00" target="footnote">The Three Caballeros came out of a US Government &lt;a href="http://en.wikipedia.org/wiki/Good_Neighbor_Policy"&gt;"Good Neighbor Policy"&lt;/a&gt; propaganda effort in Latin America after World War II. Though created by Disney as a friend of Donald, Panchito is still a racist stereotyped mexican character.</footnote>
+      
+      <footnote in="05:12:00" out="05:18:00" target="footnote">Yes Glenn Beck actually did &lt;a href="http://www.huffingtonpost.com/2010/08/07/glenn-beck-compares-obama_n_674591.html"&gt;bark like a mad dog&lt;/a&gt; live television. It happened on February 17th 2010 during his Fox News Channel broadcast while he was discussing Obama's stimulus package.</footnote>
+      
+      <footnote in="05:31:01" out="05:40:00" target="footnote">The "pygmy cannibals" are from the 1954 cartoon "Spare the Rod". In the 1960s Disney cut the racist scenes before airing it on TV. Unfortunately the stereotypes mirror current images &lt;a href="http://tpmmuckraker.talkingpointsmemo.com/2009/07/conservative_activist_forwards_racist_pic_showing.php"&gt;used in Tea Party protests &lt;/a&gt;against Obama.</footnote>
+      
+      <footnote in="05:54:00" out="06:06:00" target="footnote">Glenn Beck's &lt;a href="http://www.glennbeck.com/content/articles/article/198/36862/"&gt;Insider Extreme&lt;/a&gt; is a paid subscription service that offers live and archived video feeds of his four radio broadcast each day for $9.95 per month. It also offers access to his "historical" documentaries.</footnote>
+      
+      <footnote in="06:15:00" out="06:21:00" target="footnote">In the original cartoon Donald runs past the mailbox without depositing the letter. It was necessary to digitally add the letter being placed into the mailbox and to have it spin around. &lt;a href="http://www.youtube.com/watch?v=E5CKHLlwA7U#t=4m08s"&gt;[See original scene]&lt;/a&gt;</footnote>
+        
+        <footnote in="06:36:00" out="06:42:00" target="footnote">When Glenn Beck says "stupid Disney cartoon" he is mocking MSNBC Morning Joe co-host Mika Brzezinski's name on his Sept 17, 2009 radio broadcast.</footnote>
+        
+        <footnote in="06:43:00" out="06:47:00" target="footnote">In the original cartoon Donald pulls an egg out of his pocket. Here it has been replaced with his foreclosure notice. &lt;a href="http://www.youtube.com/watch?v=cwlvTXTAC_8#t=2m00s"&gt;[See original scene]&lt;/a&gt;</footnote>
+        
+        <footnote in="06:47:01" out="06:51:00" target="footnote">In the original cartoon Donald is showing his last will and testament. Here it has been photophopped to turn it into his foreclosure notice. &lt;a href="http://www.youtube.com/watch?v=NdEwNOz-P50#t=5m45s"&gt;[See original scene]&lt;/a&gt;</footnote>
+      
+      <footnote in="06:52:01" out="07:12:00" target="footnote">As in this May 2010 clip Glenn Beck occasionally uses his national broadcasts to &lt;a href="http://mediamatters.org/mmtv/201005170029"&gt;mock homeowners&lt;/a&gt; facing foreclosure proceedings from big banks. He also refers to victims of predatory lending practices as "the real predators".</footnote>
+      
+      <footnote in="07:26:01" out="07:32:00" target="footnote">In the original cartoon Donald is pointing his shotgun at a small penguin. Here the Tootsberry Institute of Temperism Insult Machine from "Cured Duck" has been cut out frame-by-frame and composited in. &lt;a href="http://www.youtube.com/watch?v=poPFWcB-jHo#t=6m14s"&gt;[See original scene]&lt;/a&gt;</footnote>
+      
+      <footnote in="07:34:01" out="07:40:00" target="footnote">This is a frame-by-frame composite created by lifting Donald from "Chef Donald" and adding the hole in the wall from "Donald's Penguin". Color correction was also done to make the colors match. &lt;a href="http://www.youtube.com/watch?v=fYU55fYLy8I#t=6m18s"&gt;[See original scene]&lt;/a&gt;</footnote>
+      
+      <footnote in="07:40:01" out="07:45:00" target="footnote">This transformative remix work constitutes a &lt;a href="http://centerforsocialmedia.org/fair-use/best-practices/online-video"&gt;fair use&lt;/a&gt; of any copyrighted material as provided for in section 107 of the US copyright law. The work is &lt;a href="http://creativecommons.org/licenses/by-nc-sa/3.0"&gt;licensed as Creative Commons&lt;/a&gt; permitting non-commercial sharing with attribution.</footnote>
+    
+    </footnotes>
+  <resources>
+      
+      <wikipedia in="00:00:01:01" out="00:00:13:00" resourceid="donald" numberOfWords="350" target="wikidiv"/>
+      <wikipedia in="00:00:15:01" out="00:00:22:00" resourceid="heighho" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:00:31:01" out="00:00:37:00" resourceid="pete" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:00:40:01" out="00:00:46:00" resourceid="plutocracy" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:00:47:01" out="00:00:53:00" resourceid="bluecollar" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:01:13:01" out="00:01:16:00" resourceid="tarp" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:01:16:01" out="00:01:20:00" resourceid="teaparty" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:01:20:01" out="00:01:28:00" resourceid="unemploymentrate" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:01:30:01" out="00:01:37:00" resourceid="ajax" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:02:04:01" out="00:02:13:00" resourceid="foreclosurecrisis" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:02:24:01" out="00:02:31:00" resourceid="glennbeck" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:02:32:01" out="00:02:40:00" resourceid="talkradio" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:02:54:01" out="00:03:04:00" resourceid="nationalism" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:03:05:01" out="00:03:10:00" resourceid="reactionary" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:03:11:01" out="00:03:20:00" resourceid="mccarthyism" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:03:20:01" out="00:03:22:00" resourceid="pluto" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:03:22:01" out="00:03:24:00" resourceid="goofy" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:03:24:01" out="00:03:26:00" resourceid="mickey" numberOfWords="300" target="wikidiv"/>
+      
+      <wikipedia in="00:03:34:01" out="00:03:42:00" resourceid="paranoia" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:03:42:01" out="00:03:49:00" resourceid="derfuehrer" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:03:56:01" out="00:04:03:00" resourceid="repossession" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:04:07:01" out="00:04:16:00" resourceid="apocalypticism" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:04:16:01" out="00:04:24:00" resourceid="fearmongering" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:04:24:01" out="00:04:33:00" resourceid="planet" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:04:34:01" out="00:04:45:00" resourceid="xenophobia" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:04:45:01" out="00:04:53:00" resourceid="scapegoat" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:05:02:01" out="00:05:10:00" resourceid="panchito" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:05:11:01" out="00:05:18:00" resourceid="mirror" numberOfWords="300" target="wikidiv"/>
+      
+      <wikipedia in="00:05:19:01" out="00:05:30:00" resourceid="antimexican" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:05:31:01" out="00:05:38:00" resourceid="ethnic" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:05:40:01" out="00:05:46:00" resourceid="ghostoffuture" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:05:54:01" out="00:06:06:00" resourceid="snakeoil" numberOfWords="300" target="wikidiv"/>
+	  <wikipedia in="00:06:27:01" out="00:06:35:00" resourceid="extremism" numberOfWords="300" target="wikidiv"/>
+	  <wikipedia in="00:06:50:01" out="00:07:00:00" resourceid="victimblaming" numberOfWords="300" target="wikidiv"/>
+	  <wikipedia in="00:07:05:01" out="00:07:12:00" resourceid="bootstrapping" numberOfWords="300" target="wikidiv"/>
+      <wikipedia in="00:07:26:01" out="00:07:32:00" resourceid="compositing" numberOfWords="300" target="wikidiv"/>
+	  <wikipedia in="00:07:38:01" out="00:07:45:00" resourceid="transformativeness" numberOfWords="300" target="wikidiv"/>
+	  
+       <attribution in="00:00:00:01" out="00:00:03:00" target="videoattribution" resourceid="chefdonald"/>
+       <attribution in="00:00:03:01" out="00:00:13:00" target="videoattribution" resourceid="original"/>
+       <attribution in="00:00:13:01" out="00:00:17:00" target="videoattribution" resourceid="aquamania"/>
+       <attribution in="00:00:17:01" out="00:00:24:00" target="videoattribution" resourceid="windowcleaner"/>
+
+       <attribution in="00:00:24:01" out="00:00:26:00" target="videoattribution" resourceid="luckynumber"/>
+       <attribution in="00:00:26:01" out="00:00:31:00" target="videoattribution" resourceid="windowcleanerfix"/>
+       <attribution in="00:00:31:01" out="00:00:37:00" target="videoattribution" resourceid="symphonyhour"/>
+       <attribution in="00:00:37:01" out="00:00:39:00" target="videoattribution" resourceid="putput"/>
+       <attribution in="00:00:39:01" out="00:00:46:00" target="videoattribution" resourceid="symphonyhour"/>
+       <attribution in="00:00:46:01" out="00:00:54:00" target="videoattribution" resourceid="windowcleaner"/>
+       <attribution in="00:00:54:01" out="00:00:55:00" target="videoattribution" resourceid="symphonyhourfix"/>
+       <attribution in="00:00:55:01" out="00:00:56:00" target="videoattribution" resourceid="windowcleaner"/>
+       <attribution in="00:00:56:01" out="00:00:57:00" target="videoattribution" resourceid="symphonyhour"/>
+
+       <attribution in="00:00:57:01" out="00:00:58:00" target="videoattribution" resourceid="windowcleaner"/>
+       <attribution in="00:00:58:01" out="00:00:59:00" target="videoattribution" resourceid="symphonyhour"/>
+       <attribution in="00:00:59:01" out="00:01:00:00" target="videoattribution" resourceid="putput"/>
+       <attribution in="00:01:00:01" out="00:01:01:00" target="videoattribution" resourceid="symphonyhour"/>
+       <attribution in="00:01:01:01" out="00:01:02:00" target="videoattribution" resourceid="dilemma"/>
+       <attribution in="00:01:02:01" out="00:01:03:00" target="videoattribution" resourceid="autographhound"/>
+       <attribution in="00:01:03:01" out="00:01:07:00" target="videoattribution" resourceid="dreamvoice"/>
+       <attribution in="00:01:07:01" out="00:01:13:00" target="videoattribution" resourceid="curedduck"/>
+       <attribution in="00:01:13:01" out="00:01:16:00" target="videoattribution" resourceid="goldeneggs"/>
+
+       <attribution in="00:01:16:01" out="00:01:19:00" target="videoattribution" resourceid="thegorilla"/>
+       <attribution in="00:01:19:01" out="00:01:22:00" target="videoattribution" resourceid="nohunting"/>
+       <attribution in="00:01:22:01" out="00:01:31:00" target="videoattribution" resourceid="volentreeworker"/>
+       <attribution in="00:01:31:01" out="00:01:36:00" target="videoattribution" resourceid="duckforhire"/>
+       <attribution in="00:01:36:01" out="00:01:39:00" target="videoattribution" resourceid="donaldscrime"/>
+       <attribution in="00:01:39:01" out="00:01:44:00" target="videoattribution" resourceid="movingdayfx"/>
+       <attribution in="00:01:44:01" out="00:01:54:00" target="videoattribution" resourceid="donaldscrime"/>
+       <attribution in="00:01:55:01" out="00:01:57:00" target="videoattribution" resourceid="movingday"/>
+       <attribution in="00:01:57:01" out="00:01:59:00" target="videoattribution" resourceid="cousingus"/>
+
+       <attribution in="00:01:59:01" out="00:02:03:00" target="videoattribution" resourceid="movingday"/>
+       <attribution in="00:02:03:01" out="00:02:04:00" target="videoattribution" resourceid="donaldscrime"/>
+       <attribution in="00:02:04:01" out="00:02:06:00" target="videoattribution" resourceid="movingdayfx"/>
+       <attribution in="00:02:06:01" out="00:02:09:00" target="videoattribution" resourceid="donaldscrime"/>
+       <attribution in="00:02:09:01" out="00:02:12:00" target="videoattribution" resourceid="movingdayfx"/>
+       <attribution in="00:02:12:01" out="00:02:14:00" target="videoattribution" resourceid="donaldscrime"/>
+       <attribution in="00:02:14:01" out="00:02:25:00" target="videoattribution" resourceid="donaldsnephews"/>
+       <attribution in="00:02:25:01" out="00:02:27:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:02:27:01" out="00:02:29:00" target="videoattribution" resourceid="dreamvoice"/>
+
+       <attribution in="00:02:29:01" out="00:02:32:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:02:32:01" out="00:02:36:00" target="videoattribution" resourceid="donaldscrime"/>
+       <attribution in="00:02:36:01" out="00:02:38:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:02:38:01" out="00:02:40:00" target="videoattribution" resourceid="cousingus"/>
+       <attribution in="00:02:40:01" out="00:02:41:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:02:41:01" out="00:02:44:00" target="videoattribution" resourceid="cousingus"/>
+       <attribution in="00:02:44:01" out="00:02:45:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:02:45:01" out="00:02:46:00" target="videoattribution" resourceid="cousingus"/>
+       <attribution in="00:02:46:01" out="00:03:09:00" target="videoattribution" resourceid="newspirit"/>
+
+       <attribution in="00:03:09:01" out="00:03:11:00" target="videoattribution" resourceid="homedefense"/>
+       <attribution in="00:03:11:01" out="00:03:13:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:03:13:01" out="00:03:15:00" target="videoattribution" resourceid="donaldsnephews"/>
+       <attribution in="00:03:15:01" out="00:03:16:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:03:16:01" out="00:03:20:00" target="videoattribution" resourceid="happybirthday"/>
+       <attribution in="00:03:20:01" out="00:03:22:00" target="videoattribution" resourceid="caninecasanova"/>
+       <attribution in="00:03:22:01" out="00:03:24:00" target="videoattribution" resourceid="fathersday"/>
+       <attribution in="00:03:24:01" out="00:03:26:00" target="videoattribution" resourceid="mousetrip"/>
+       <attribution in="00:03:26:01" out="00:03:28:00" target="videoattribution" resourceid="happybirthday"/>
+
+       <attribution in="00:03:28:01" out="00:03:29:00" target="videoattribution" resourceid="cousingus"/>
+       <attribution in="00:03:29:01" out="00:03:36:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:03:36:01" out="00:03:38:00" target="videoattribution" resourceid="daddyduck"/>
+       <attribution in="00:03:38:01" out="00:03:42:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:03:42:01" out="00:03:43:00" target="videoattribution" resourceid="lionaround"/>
+       <attribution in="00:03:43:01" out="00:03:45:00" target="videoattribution" resourceid="fuehrersface"/>
+       <attribution in="00:03:45:01" out="00:03:46:00" target="videoattribution" resourceid="lionaround"/>
+       <attribution in="00:03:46:01" out="00:03:48:00" target="videoattribution" resourceid="selfcontrol"/>
+       <attribution in="00:03:48:01" out="00:03:51:00" target="videoattribution" resourceid="lionaround"/>
+
+       <attribution in="00:03:51:01" out="00:03:54:00" target="videoattribution" resourceid="fathersday"/>
+       <attribution in="00:03:54:01" out="00:03:55:00" target="videoattribution" resourceid="lionaround"/>
+       <attribution in="00:03:55:01" out="00:03:58:00" target="videoattribution" resourceid="movingday"/>
+       <attribution in="00:03:58:01" out="00:04:05:00" target="videoattribution" resourceid="cousingus"/>
+       <attribution in="00:04:05:01" out="00:04:08:00" target="videoattribution" resourceid="sailor"/>
+       <attribution in="00:04:09:01" out="00:04:12:00" target="videoattribution" resourceid="thegorilla"/>
+       <attribution in="00:04:13:01" out="00:04:36:00" target="videoattribution" resourceid="duckpimples"/>
+       <attribution in="00:04:37:01" out="00:04:47:00" target="videoattribution" resourceid="thegorilla"/>
+       <attribution in="00:04:48:01" out="00:04:54:00" target="videoattribution" resourceid="eyeshaveit"/>
+
+       <attribution in="00:04:55:01" out="00:04:58:00" target="videoattribution" resourceid="duckpimples"/>
+       <attribution in="00:04:59:01" out="00:05:02:00" target="videoattribution" resourceid="eyeshaveit"/>
+       <attribution in="00:05:02:01" out="00:05:05:00" target="videoattribution" resourceid="threecaballeros"/>
+       <attribution in="00:05:05:01" out="00:05:06:00" target="videoattribution" resourceid="duckpimples"/>
+       <attribution in="00:05:06:01" out="00:05:08:00" target="videoattribution" resourceid="threecaballeros"/>
+       <attribution in="00:05:08:01" out="00:05:09:00" target="videoattribution" resourceid="duckpimples"/>
+       <attribution in="00:05:09:01" out="00:05:11:00" target="videoattribution" resourceid="donaldscrime"/>
+       <attribution in="00:05:11:01" out="00:05:17:00" target="videoattribution" resourceid="themirror"/>
+       <attribution in="00:05:17:01" out="00:05:19:00" target="videoattribution" resourceid="penguin"/>
+
+       <attribution in="00:05:19:01" out="00:05:20:00" target="videoattribution" resourceid="dayoff"/>
+       <attribution in="00:05:20:01" out="00:05:29:00" target="videoattribution" resourceid="threecaballeros"/>
+       <attribution in="00:05:29:01" out="00:05:31:00" target="videoattribution" resourceid="curedduck"/>
+       <attribution in="00:05:31:01" out="00:05:34:00" target="videoattribution" resourceid="sparetherod"/>
+       <attribution in="00:05:34:01" out="00:05:35:00" target="videoattribution" resourceid="duckpimples"/>
+       <attribution in="00:05:35:01" out="00:05:36:00" target="videoattribution" resourceid="sparetherod"/>
+       <attribution in="00:05:36:01" out="00:05:38:00" target="videoattribution" resourceid="mathmagic"/>
+       <attribution in="00:05:38:01" out="00:05:40:00" target="videoattribution" resourceid="threecaballeros"/>
+       <attribution in="00:05:40:01" out="00:05:45:00" target="videoattribution" resourceid="christmascarol"/>
+
+       <attribution in="00:05:45:01" out="00:05:47:00" target="videoattribution" resourceid="donaldscrime"/>
+       <attribution in="00:05:47:01" out="00:05:54:00" target="videoattribution" resourceid="threecaballeros"/>
+       <attribution in="00:05:54:01" out="00:05:56:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:05:56:01" out="00:05:58:00" target="videoattribution" resourceid="threecaballeros"/>
+       <attribution in="00:05:58:01" out="00:05:59:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:05:59:01" out="00:06:02:00" target="videoattribution" resourceid="donaldscrime"/>
+       <attribution in="00:06:02:01" out="00:06:04:00" target="videoattribution" resourceid="newspirit"/>
+       <attribution in="00:06:04:01" out="00:06:14:00" target="videoattribution" resourceid="donaldscrime"/>
+       <attribution in="00:06:14:01" out="00:06:15:00" target="videoattribution" resourceid="newspirit"/>
+
+       <attribution in="00:06:15:01" out="00:06:17:00" target="videoattribution" resourceid="chefdonald"/>
+       <attribution in="00:06:17:01" out="00:06:20:00" target="videoattribution" resourceid="newspiritfix"/>
+       <attribution in="00:06:21:01" out="00:06:40:00" target="videoattribution" resourceid="curedduck"/>
+       <attribution in="00:06:40:01" out="00:06:41:00" target="videoattribution" resourceid="straightshooters"/>
+       <attribution in="00:06:41:01" out="00:06:42:00" target="videoattribution" resourceid="curedduck"/>
+       <attribution in="00:06:42:01" out="00:06:45:00" target="videoattribution" resourceid="autographhoundfix"/>
+       <attribution in="00:06:45:01" out="00:06:47:00" target="videoattribution" resourceid="dayofffix"/>
+       <attribution in="00:06:47:01" out="00:06:49:00" target="videoattribution" resourceid="curedduck"/>
+       <attribution in="00:06:49:01" out="00:06:51:00" target="videoattribution" resourceid="penguin"/>
+
+       <attribution in="00:06:51:01" out="00:06:56:00" target="videoattribution" resourceid="curedduck"/>
+       <attribution in="00:06:56:01" out="00:06:58:00" target="videoattribution" resourceid="doubletrouble"/>
+       <attribution in="00:06:58:01" out="00:06:59:00" target="videoattribution" resourceid="curedduck"/>
+       <attribution in="00:06:59:01" out="00:07:00:00" target="videoattribution" resourceid="trailofdonald"/>
+       <attribution in="00:07:00:01" out="00:07:23:00" target="videoattribution" resourceid="curedduck"/>
+       <attribution in="00:07:23:01" out="00:07:25:00" target="videoattribution" resourceid="penguin"/>
+       <attribution in="00:07:25:01" out="00:07:26:00" target="videoattribution" resourceid="penguinfx"/>
+      
+	   <attribution in="00:07:26:01" out="00:07:31:00" target="videoattribution" resourceid="composite"/>
+       <attribution in="00:07:31:01" out="00:07:32:00" target="videoattribution" resourceid="curedduck"/>
+       <attribution in="00:07:32:01" out="00:07:34:00" target="videoattribution" resourceid="penguin"/>
+       <attribution in="00:07:34:01" out="00:07:35:00" target="videoattribution" resourceid="earlytobed"/>
+       <attribution in="00:07:35:01" out="00:07:38:00" target="videoattribution" resourceid="composite2"/>
+       <attribution in="00:07:38:01" out="00:07:45:00" target="videoattribution" resourceid="original"/>
+
+       <attribution in="00:00:01:00" out="00:00:15:00" target="audioattribution" resourceid="chefdonald"/>
+       <attribution in="00:00:15:01" out="00:00:22:00" target="audioattribution" resourceid="theriveter"/>
+
+       <attribution in="00:00:22:01" out="00:00:25:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:00:25:01" out="00:00:34:00" target="audioattribution" resourceid="todayshow"/>
+       <attribution in="00:00:35:00" out="00:00:43:00" target="audioattribution" resourceid="alyonashow"/>
+       <attribution in="00:00:43:01" out="00:00:44:00" target="audioattribution" resourceid="theriveter"/>
+       <attribution in="00:00:44:01" out="00:00:53:00" target="audioattribution" resourceid="alyonashow"/>
+       <attribution in="00:00:53:01" out="00:00:59:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:00:59:01" out="00:01:03:00" target="audioattribution" resourceid="duckforhire"/>
+       <attribution in="00:01:03:01" out="00:02:24:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:02:24:01" out="00:02:29:00" target="audioattribution" resourceid="beckfoxintro"/>
+
+       <attribution in="00:02:29:01" out="00:02:41:00" target="audioattribution" resourceid="beckfox020409"/>
+       <attribution in="00:02:41:01" out="00:02:44:00" target="audioattribution" resourceid="donaldscamera"/>
+       <attribution in="00:02:44:01" out="00:02:48:00" target="audioattribution" resourceid="beckfox071509"/>
+       <attribution in="00:02:48:01" out="00:02:55:00" target="audioattribution" resourceid="beckfox020409"/>
+       <attribution in="00:02:55:01" out="00:03:03:00" target="audioattribution" resourceid="beckfox082610"/>
+       <attribution in="00:03:04:01" out="00:03:08:00" target="audioattribution" resourceid="beckfox091310"/>
+       <attribution in="00:03:09:01" out="00:03:18:00" target="audioattribution" resourceid="beckfox082509"/>
+       <attribution in="00:03:18:01" out="00:03:21:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:03:21:01" out="00:03:25:00" target="audioattribution" resourceid="penguin"/>
+
+       <attribution in="00:03:25:01" out="00:03:28:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:03:28:01" out="00:03:31:00" target="audioattribution" resourceid="beckfox022009"/>
+       <attribution in="00:03:32:01" out="00:03:38:00" target="audioattribution" resourceid="beckfox030210"/>
+       <attribution in="00:03:39:01" out="00:03:42:00" target="audioattribution" resourceid="beckradio111209"/>
+       <attribution in="00:03:42:01" out="00:03:59:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:03:59:01" out="00:04:05:00" target="audioattribution" resourceid="curedduck"/>
+       <attribution in="00:04:05:01" out="00:04:09:00" target="audioattribution" resourceid="beckradio082509"/>
+       <attribution in="00:04:09:01" out="00:04:13:00" target="audioattribution" resourceid="beckfox072210"/>
+       <attribution in="00:04:13:01" out="00:04:16:00" target="audioattribution" resourceid="beckradio082509"/>
+
+       <attribution in="00:04:16:01" out="00:04:22:00" target="audioattribution" resourceid="beckfox110309"/>
+       <attribution in="00:04:22:01" out="00:04:23:00" target="audioattribution" resourceid="beckradio052810"/>
+       <attribution in="00:04:23:01" out="00:04:33:00" target="audioattribution" resourceid="beckfox080510"/>
+       <attribution in="00:04:33:01" out="00:04:37:00" target="audioattribution" resourceid="beckfox072310"/>
+       <attribution in="00:04:37:01" out="00:04:39:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:04:39:01" out="00:04:42:00" target="audioattribution" resourceid="beckvarious"/>
+       <attribution in="00:04:42:01" out="00:04:44:00" target="audioattribution" resourceid="beckfox072210"/>
+       <attribution in="00:04:45:01" out="00:04:49:00" target="audioattribution" resourceid="beckvarious"/>
+       <attribution in="00:04:50:01" out="00:04:54:00" target="audioattribution" resourceid="beckradio091310"/>
+
+       <attribution in="00:04:55:01" out="00:05:01:00" target="audioattribution" resourceid="beckfox101509"/>
+       <attribution in="00:05:01:01" out="00:05:06:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:05:06:01" out="00:05:09:00" target="audioattribution" resourceid="beckcnn090407"/>
+       <attribution in="00:05:09:01" out="00:05:18:00" target="audioattribution" resourceid="beckfox021710"/>
+       <attribution in="00:05:18:01" out="00:05:20:00" target="audioattribution" resourceid="thesamba"/>
+       <attribution in="00:05:20:01" out="00:05:23:00" target="audioattribution" resourceid="beckfox042610"/>
+       <attribution in="00:05:23:01" out="00:05:25:00" target="audioattribution" resourceid="thesamba"/>
+       <attribution in="00:05:25:01" out="00:05:28:00" target="audioattribution" resourceid="beckradio011910"/>
+	   <attribution in="00:05:28:01" out="00:05:32:00" target="audioattribution" resourceid="beckfox092309"/>
+
+	   <attribution in="00:05:32:01" out="00:05:36:00" target="audioattribution" resourceid="beckradio051310"/>
+	   <attribution in="00:05:36:01" out="00:05:40:00" target="audioattribution" resourceid="beckradio022510"/>
+	   <attribution in="00:05:40:01" out="00:05:44:00" target="audioattribution" resourceid="beckfox072310"/>
+       <attribution in="00:05:44:01" out="00:05:52:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:05:52:01" out="00:06:06:00" target="audioattribution" resourceid="beckradio022510"/>
+	   <attribution in="00:06:06:01" out="00:06:27:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:06:27:01" out="00:06:36:00" target="audioattribution" resourceid="beckinsider"/>
+       <attribution in="00:06:36:01" out="00:06:38:00" target="audioattribution" resourceid="autographhound"/>
+       <attribution in="00:06:38:01" out="00:06:43:00" target="audioattribution" resourceid="beckradio091709"/>
+
+	   <attribution in="00:06:43:01" out="00:06:47:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:06:47:01" out="00:06:49:00" target="audioattribution" resourceid="beckcnn072808"/>
+	   <attribution in="00:06:49:01" out="00:06:51:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:06:51:01" out="00:06:59:00" target="audioattribution" resourceid="beckradio051710"/>
+       <attribution in="00:06:59:01" out="00:07:01:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:07:01:01" out="00:07:05:00" target="audioattribution" resourceid="beckfox072809"/>
+	   <attribution in="00:07:05:01" out="00:07:08:00" target="audioattribution" resourceid="sameasvideo"/>
+       <attribution in="00:07:08:01" out="00:07:10:00" target="audioattribution" resourceid="beckradio051710"/>
+	   <attribution in="00:07:10:01" out="00:07:11:00" target="audioattribution" resourceid="sameasvideo"/>
+
+       <attribution in="00:07:11:01" out="00:07:13:00" target="audioattribution" resourceid="goodtime"/>
+       <attribution in="00:07:13:01" out="00:07:17:00" target="audioattribution" resourceid="beckradio112009"/>
+	   <attribution in="00:07:17:01" out="00:07:18:00" target="audioattribution" resourceid="goodtime"/>
+       <attribution in="00:07:18:01" out="00:07:20:00" target="audioattribution" resourceid="sameasvideo"/>
+	   <attribution in="00:07:20:01" out="00:07:23:00" target="audioattribution" resourceid="beckfox123109"/>
+	   <attribution in="00:07:23:01" out="00:07:31:00" target="audioattribution" resourceid="sameasvideo"/>
+	   <attribution in="00:07:31:01" out="00:07:33:00" target="audioattribution" resourceid="clownofthejungle"/>
+       <attribution in="00:07:33:01" out="00:07:35:00" target="audioattribution" resourceid="sameasvideo"/>
+	   <attribution in="00:07:35:01" out="00:07:45:00" target="audioattribution" resourceid="chefdonald"/>
+	   
+    </resources>
+    <credits/>
+  </timeline>
+</popcorn>

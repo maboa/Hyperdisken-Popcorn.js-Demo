@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hyperdisken Parser</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script type="text/javascript">
+      var parser = {
+        outputString:  '',
+        subtitle: function(input) {
+          var words = input.text.split(' ');
+          var duration = input.end - input.start;
+          var timeStep = duration/words.length;
+          for (var i=0, l=words.length; i<l; ++i) {
+            var time = Math.round((input.start + i*timeStep) * 1000);
+            var text = words[i];
+            var safeText = text.replace('"', '\\"');
+            parser.outputString += '<span m="'+time+'" oval="'+safeText+'">'+text+'</span> ';
+          } //for
+          return parser;
+        }, //subtitle
+      }; //parser
+      
+      document.addEventListener('DOMContentLoaded', function(e) {
+        var parsed = document.getElementById('parsed');
+        parsed.style.width = window.innerWidth - 10 + "px";
+        parsed.style.height = window.innerHeight - 10 + "px";
+        parsed.value = '<p>' + parser.outputString + '</p>';
+      }, false);
+    </script>
+    <script type="text/javascript" src="paneltext_da.js"></script>
+  </head>
+  <body>
+    <textarea id="parsed"></textarea>
+  </body>
+</html>
