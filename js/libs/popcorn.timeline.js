@@ -1,23 +1,25 @@
 // PLUGIN: Timeline 
-// @maboa changed id='big' and id='mid' to classes as ids must be unique and these repeat 2011-03-31
+// 2011-03-31 @maboa changed id='big' and id='mid' to classes as ids must be unique and these repeat      
+// 2011-05-18 @maboa removing the css insertion as we don't need this, also changing asdf as a unique identifier for divs to something more useful/configurable
 
 (function (Popcorn) {
 
-  var i = 0;
+  var i = 0; 
+  var divIdPrefix = "pc-timeline-item";
    
-    var head = document.getElementsByTagName("head")[0];
+   /* var head = document.getElementsByTagName("head")[0];
     var css = document.createElement('link');
     css.type = "text/css";
     css.rel = "stylesheet";
     css.href =  "asdf.css";
-    head.insertBefore( css, head.firstChild ); 
+    head.insertBefore( css, head.firstChild );  */
 
   Popcorn.plugin( "timeline" , function( options ) {
     // create a new div and append it to the parent div so nothing
     // that already exists in the parent div gets overwritten
     var newdiv = document.createElement( "div" );
     newdiv.style.display = "none";
-    newdiv.id = "asdf"+i;      
+    newdiv.id = divIdPrefix+i;      
 
 
 
@@ -28,7 +30,7 @@
         // insert the current div before the previous div inserted
         //document.getElementById( options.target ).insertBefore( newdiv, document.getElementById( "asdf" + ( i - 1 ) ) );      
         // inserts after as it makes it easier to click on the links when they don't move @maboa
-		document.getElementById( options.target ).insertBefore(  document.getElementById( "asdf" + ( i - 1 ) ), newdiv );        
+		document.getElementById( options.target ).insertBefore(  document.getElementById( divIdPrefix + ( i - 1 ) ), newdiv );        
 
        }
     }
